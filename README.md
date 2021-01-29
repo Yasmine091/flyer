@@ -22,4 +22,5 @@
 * https://yasmine-flyer.surge.sh
 
 ## Ressources du projet
-* Maquette : https://gitlab.com/Yasmine091/flyer/-/tree/master/ressources/maquette.jpg
+* Maquette Bureau: https://gitlab.com/Yasmine091/flyer/-/tree/master/ressources/Desktop.png
+* Maquette Mobile: https://gitlab.com/Yasmine091/flyer/-/tree/master/ressources/Mobile.png
