@@ -1,0 +1,91 @@
+body {
+    color:rgb(65, 52, 43) !important;
+}
+
+.t-brown {
+    color: rgb(173, 127, 90) !important;
+}
+
+.b-brown {
+    background-color: rgb(173, 127, 90) !important;
+}
+
+.t-green {
+    color: rgb(168, 224, 35) !important;
+}
+
+.b-green {
+    background-color: rgb(168, 224, 35) !important;
+}
+
+.header-img {
+    object-fit: cover;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./img/entete-rtb.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+h1.display-4 {
+    font-size: 4.5rem;
+    font-weight: normal;
+}
+p.lead {
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+
+
+header hr {
+    width: 25rem !important;
+    box-shadow: 2px 2px 4px #000;
+}
+
+.web-img {
+    height: auto;
+    max-height: 27rem;
+    width: auto;
+    max-width: 30rem;
+    object-fit: contain;
+}
+
+.footer-img {
+    object-fit: cover;
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./img/entete-rtb.jpg'); */
+    background-position: center;
+    background-size: cover;
+}
+
+.display-4 ul {
+    font-size: 0.8rem !important;
+    font-weight: bolder;
+}
+
+.display-4 li {
+    list-style: none;
+    font-size: 0.8rem !important;
+    font-weight: bolder;
+    display: inline;
+}
+
+.copy {
+    font-size: 0.7rem !important;
+    font-weight: bolder !important;
+}
+
+a {
+    color: rgb(33, 126, 73);
+    font-weight: bolder;
+}
+
+a:hover {
+    color: rgb(31, 170, 91);
+}
+
+section:nth-of-type(2n+1) {
+    background-color: rgb(222, 255, 146);
+}
+
+
+section {
+    background-color: #FFF6F0;
+}
